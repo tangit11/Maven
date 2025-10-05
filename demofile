@@ -10,7 +10,7 @@ pipeline {
 
                 // Checkout your source code from version control
 
-                git 'https://github.com/tangit11/Maven.git'
+                git 'https://github.com/hkshitesh/Demo-Maven-Repo.git'
 
             }
 
